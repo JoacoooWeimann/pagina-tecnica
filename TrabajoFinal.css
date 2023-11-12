@@ -302,6 +302,7 @@ background:none;
     justify-content: center;
         -top: 100px;
 }
+
 .content2 h1
 {
     display: block;
@@ -597,6 +598,11 @@ width: 100%;
     .formu input{
         padding: 15px;
     }
+
+    .content2 h1
+    {
+        width: 100%;
+    }
 }
 /*---------------------Pagina comentarios----------------*/
 
@@ -862,4 +868,8 @@ align-items: center;
 .enlace{
     flex-direction: column;
 }
+
+.activities img
+{
+    width:100%;
 }
